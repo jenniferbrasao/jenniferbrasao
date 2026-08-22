@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! Eu sou a Jennifer Tais Brasão Alves 👋
 
-<!--
-**jenniferbrasao/jenniferbrasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** e profissional de controladoria jurídica.
+Meu dia a dia é feito de dados: conferir, organizar e transformar informação em relatórios confiáveis. Foi lidando com isso que decidi aprender a construir os sistemas que sustentam esse trabalho.
 
-Here are some ideas to get you started:
+Hoje estudo desenvolvimento **Back-End**, com foco em Python, SQL e modelagem de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack e Tecnologias
+
+**Estudando ativamente**
+- `Python` — lógica de programação e automação
+- `SQL` — consultas, joins e modelagem relacional
+- `JavaScript` — manipulação do DOM, eventos e localStorage
+
+**Base e ferramentas**
+- `HTML5` e `CSS3` (Flexbox e Grid)
+- `Git` e `GitHub` — versionamento e colaboração
+- `Excel Avançado` — análise e tratamento de dados
+
+**Próximos passos**
+- Bancos de dados relacionais (PostgreSQL / MySQL)
+- Frameworks back-end e consumo de APIs
+
+---
+
+## 📌 Projetos em destaque
+
+### Portfólio Digital Dinâmico
+Aplicação web em JavaScript puro que transforma uma interface estática em experiência dinâmica: renderização de projetos via DOM, filtros por tecnologia com eventos, persistência de tema com `localStorage` e consumo da API do GitHub com `fetch`.
+
+> Mais projetos chegando conforme avanço no curso — este perfil é um registro contínuo do meu aprendizado.
+
+---
+
+## 🎯 O que estou buscando
+
+Uma oportunidade de **estágio em Back-End ou Banco de Dados**, onde eu possa aplicar o que estudo, aprender com pessoas mais experientes e contribuir com o que já trago da minha experiência: organização, atenção a detalhes e disciplina com prazos.
+
+---
+
+## 💡 No que acredito
+
+Tecnologia bem construída nasce de equipes diversas. Valorizo ambientes colaborativos, onde há espaço para perguntar, errar e crescer junto.
