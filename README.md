@@ -33,7 +33,7 @@ Aplicação web em JavaScript puro que transforma uma interface estática em exp
 > Mais projetos chegando conforme avanço no curso — este perfil é um registro contínuo do meu aprendizado.
 
 ---
-
+🔗 [Ver repositório](https://github.com/jenniferbrasao/portfolio-dinamico)
 ## 🎯 O que estou buscando
 
 Uma oportunidade de **estágio em Back-End ou Banco de Dados**, onde eu possa aplicar o que estudo, aprender com pessoas mais experientes e contribuir com o que já trago da minha experiência: organização, atenção a detalhes e disciplina com prazos.
